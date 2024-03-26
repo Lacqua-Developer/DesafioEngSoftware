@@ -1,0 +1,19 @@
+{
+  "name": "desafioengsoftware",
+  "version": "1.0.0",
+  "description": "Desafio para a vaga de Engenheiro de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lacqua-Developer/DesafioEngSoftware.git"
+  },
+  "author": "Ary Bevilaqua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lacqua-Developer/DesafioEngSoftware/issues"
+  },
+  "homepage": "https://github.com/Lacqua-Developer/DesafioEngSoftware#readme"
+}
