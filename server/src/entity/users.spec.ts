@@ -1,4 +1,3 @@
-import {expect, test} from 'vitest';
 import { User } from './users';
 
 test('User test app', () => {
